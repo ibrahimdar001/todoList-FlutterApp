@@ -1,6 +1,6 @@
 # todo_app
 
-A new todoList Flutter project.
+A todoList, my first flutter project.
 
 ## Getting Started
 
